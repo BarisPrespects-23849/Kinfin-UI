@@ -114,7 +114,7 @@ Navigate the application quickly with a keyboard-accessible command menu.
 *The main dashboard showing summary statistics and distribution charts*
 
 ### Cluster Analysis
-![Cluster Analysis](/placeholder.svg?height=400&width=800)
+![Cluster Analysis](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/map.png?raw=true)
 *Detailed view of protein clusters with filtering and sorting capabilities*
 
 ### Taxonomy Visualization
