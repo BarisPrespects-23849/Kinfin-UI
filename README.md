@@ -118,7 +118,7 @@ Navigate the application quickly with a keyboard-accessible command menu.
 *Detailed view of protein clusters with filtering and sorting capabilities*
 
 ### Taxonomy Visualization
-![Taxonomy Visualization](/https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/map.png?raw=true)
+![Taxonomy Visualization]([https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/map.png?raw=true](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/map.png?raw=true))
 *Interactive treemap visualization of taxonomic relationships*
 
 ### Network Graph
