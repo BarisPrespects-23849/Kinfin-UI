@@ -1,6 +1,6 @@
 # KinFin UI
 
-![KinFin UI Banner](/placeholder.svg?height=300&width=800)
+![KinFin UI Banner](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/Dashboard.png?raw=true)
 
 ## A Modern Web Interface for Protein Clustering Analysis
 
