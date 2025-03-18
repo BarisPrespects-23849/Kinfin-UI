@@ -110,19 +110,19 @@ Navigate the application quickly with a keyboard-accessible command menu.
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](/placeholder.svg?height=400&width=800)
+![Dashboard](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/Dashboard.png?raw=true)
 *The main dashboard showing summary statistics and distribution charts*
 
 ### Cluster Analysis
-![Cluster Analysis](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/map.png?raw=true)
+![Cluster Analysis](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/Cluster.png?raw=true)
 *Detailed view of protein clusters with filtering and sorting capabilities*
 
 ### Taxonomy Visualization
-![Taxonomy Visualization](/placeholder.svg?height=400&width=800)
+![Taxonomy Visualization](/https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/map.png?raw=true)
 *Interactive treemap visualization of taxonomic relationships*
 
 ### Network Graph
-![Network Graph](/placeholder.svg?height=400&width=800)
+![Network Graph](https://github.com/BarisPrespects-23849/Kinfin-UI/blob/main/Network.png?raw=true)
 *Force-directed graph showing relationships between protein clusters*
 
 ---
